@@ -14,6 +14,6 @@
 创建于 2026-06-13 by 小虾（AI 助理）at 主人 晓冬 的请求。
 
 ## 删除方式
-```bash
+\`\`\`bash
 gh repo delete babiger/gh-cli-test-20260613
-```
+\`\`\`
